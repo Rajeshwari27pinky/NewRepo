@@ -7,4 +7,3 @@ New line from Git Web
 New line1 from Git Web
 added one more line from git
 test line1
-test line2
